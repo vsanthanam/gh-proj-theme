@@ -1,3 +1,5 @@
+> This is a modified / hacked version of allejo/jekyll-docs-theme. I've forked that repo as well to develop against it properly; this repo contains some vsanthanam specific modifications that you probably shouldn't use.
+
 # Jekyll Docs Theme
 
 > This is a [Jekyll theme](https://github.com/allejo/jekyll-docs-theme) based on [mistic100's modification](https://github.com/mistic100/jekyll-bootstrap-doc) of the official Bootstrap documentation from a few years back.
